@@ -1,8 +1,8 @@
 class PredictiveLoading < Formula
   desc "Predicts your next DNS lookups from your own history and resolves them early"
   homepage "https://github.com/Questboy23/predictive-loading"
-  url "https://github.com/Questboy23/predictive-loading/releases/download/v1.0.1/predictive-loading-1.0.1.tar.gz"
-  sha256 "6d683d46a346996a0a4c0c355f8a2f1cd5587a505c91f0ad619ce0efc51d9dfe"
+  url "https://github.com/Questboy23/predictive-loading/releases/download/v1.0.2/predictive-loading-1.0.2.tar.gz"
+  sha256 "15af3c5913c586ab5aa938ba9a8a47fa1b8ab3726b9c7902aa7988178c078f9a"
   license "MIT"
 
   depends_on :macos
